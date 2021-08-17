@@ -37,5 +37,5 @@ Veja mais na seção [deployment](https://facebook.github.io/create-react-app/do
 - **[Repositorio Oficial Projeto](https://github.com/eduardogc/digital-one-react-intermediario)**
 - **Extensão Chrome**: [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=pt-BR)
 - **Extensão Mozilla Firefox**: [React Developer Tools](https://addons.mozilla.org/pt-BR/firefox/addon/react-devtools/)
-- **Extensão VS CODE**: [Jest-Cucumber](https://www.npmjs.com/package/jest-cucumber)`yarn add --dev jest-cucumber`
+- **Extensão VS CODE**: [Jest-Cucumber](https://www.npmjs.com/package/jest-cucumber) ou `yarn add --dev jest-cucumber`
 - **[Jasmine](https://jasmine.github.io/)**
