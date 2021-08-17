@@ -27,3 +27,15 @@ Veja a documentação, na seção [running tests](https://facebook.github.io/cre
 
 Empacota o projeto em um bundle de produção na pasta `build`.<br>
 Veja mais na seção [deployment](https://facebook.github.io/create-react-app/docs/deployment) da documentacao para saber mais como efetuar um deploy correto de sua aplicação.
+
+### **Utilitários Pesquisa**
+
+- **[Redux Form](https://redux-form.com/8.3.0/)**
+- **[Formik](https://formik.org/)**
+- **[Controlled vs uncontrolled](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)**
+- **[GitHub Instrutor](https://github.com/eduardogc)**
+- **[Repositorio Oficial Projeto](https://github.com/eduardogc/digital-one-react-intermediario)**
+- **Extensão Chrome**: [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=pt-BR)
+- **Extensão Mozilla Firefox**: [React Developer Tools](https://addons.mozilla.org/pt-BR/firefox/addon/react-devtools/)
+- **Extensão VS CODE**: [Jest-Cucumber]`yarn add --dev jest-cucumber`(https://www.npmjs.com/package/jest-cucumber)
+- **[Jasmine](https://jasmine.github.io/)**
